@@ -1,0 +1,19 @@
+C:\Users\DELL\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\DELL\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\DELL\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\DELL\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\DELL\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\DELL\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\DELL\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\DELL\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\DELL\documents\visual studio 2010\Projects\Kalaha\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\Kalaha\WindowsApplication1\bin\Debug\Kalaha.exe
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\Kalaha\WindowsApplication1\bin\Debug\Kalaha.pdb
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\Kalaha\WindowsApplication1\bin\Debug\Kalaha.xml
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\Kalaha\WindowsApplication1\obj\x86\Debug\Kalaha.exe
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\Kalaha\WindowsApplication1\obj\x86\Debug\Kalaha.xml
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\Kalaha\WindowsApplication1\obj\x86\Debug\Kalaha.pdb
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\Kalaha\WindowsApplication1\obj\x86\Debug\Kalaha.choix.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\Kalaha\WindowsApplication1\obj\x86\Debug\Kalaha.labels.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\Kalaha\WindowsApplication1\obj\x86\Debug\Kalaha.Form1_.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\Kalaha\WindowsApplication1\obj\x86\Debug\Kalaha.Resources.resources

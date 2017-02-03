@@ -1,0 +1,11 @@
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\Kalaha\WindowsApplication1\bin\Release\Kalaha.exe
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\Kalaha\WindowsApplication1\bin\Release\Kalaha.pdb
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\Kalaha\WindowsApplication1\bin\Release\Kalaha.xml
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\Kalaha\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\Kalaha\WindowsApplication1\obj\x86\Release\Kalaha.exe
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\Kalaha\WindowsApplication1\obj\x86\Release\Kalaha.xml
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\Kalaha\WindowsApplication1\obj\x86\Release\Kalaha.pdb
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\Kalaha\WindowsApplication1\obj\x86\Release\Kalaha.choix.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\Kalaha\WindowsApplication1\obj\x86\Release\Kalaha.labels.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\Kalaha\WindowsApplication1\obj\x86\Release\Kalaha.Form1_.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\Kalaha\WindowsApplication1\obj\x86\Release\Kalaha.Resources.resources
