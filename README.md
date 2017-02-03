@@ -7,3 +7,4 @@ A solved game for most of its variations, with first-player win with perfect pla
 
 More on Wikipedia : https://en.wikipedia.org/wiki/Kalah
 
+This is a simple implementation of this game using Visual Basic  and the .NET framework.
